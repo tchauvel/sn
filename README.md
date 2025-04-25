@@ -104,5 +104,5 @@ MIT
 ---
 
 <div align="center">
-  <p>Made with ❤️ by Snap & Cook Team</p>
+  <p>Made with ❤️ by Snap & Cook Team -- Thomas Chauvel</p>
 </div>
