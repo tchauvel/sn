@@ -19,15 +19,22 @@ Snap & Cook makes cooking easy by helping you discover recipes based on ingredie
 
 ## 📱 Screenshots
 
-<div align="center">
-  <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-    <img src="assets/screenshots/home-screen.png" alt="Home Screen" width="200"/>
-    <img src="assets/screenshots/ingredients-screen.png" alt="Ingredients Screen" width="200"/>
-    <img src="assets/screenshots/recipes-screen-1.png" alt="Recipes Screen" width="200"/>
-    <img src="assets/screenshots/recipes-screen-2.png" alt="More Recipes" width="200"/>
-    <img src="assets/screenshots/recipe-detail.png" alt="Recipe Detail" width="200"/>
-  </div>
-</div>
+### App Flow Screenshots:
+
+**Screenshot 1: Home Screen**  
+The main screen with "Snap & Cook" title and options to take a photo or select from gallery.
+
+**Screenshot 2: Ingredients Screen**  
+Shows detected ingredients (potatoes, chicken, tomatoes, garlic, onions, carrots) with ability to add or remove items.
+
+**Screenshot 3: Recipes Screen**  
+Displays matching recipes like "Bacon Wrapped Filet Mignon" and "Asparagus and Pea Soup" based on your ingredients.
+
+**Screenshot 4: Alternative Recipes Screen**  
+Shows other recipe options including "Pasta With Tuna and Tomato Sauce" and "Easy Chicken Curry" with percentage matches.
+
+**Screenshot 5: Recipe Detail Screen**  
+Detailed view of "Pasta With Tuna and Tomato Sauce" with ingredients, preparation steps, and cooking time.
 
 ## 🚀 Quick Start
 
