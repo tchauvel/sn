@@ -19,7 +19,15 @@ Snap & Cook makes cooking easy by helping you discover recipes based on ingredie
 
 ## 📱 Screenshots
 
-[Screenshots could be added here]
+<div align="center">
+  <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+    <img src="assets/screenshots/home-screen.png" alt="Home Screen" width="200"/>
+    <img src="assets/screenshots/ingredients-screen.png" alt="Ingredients Screen" width="200"/>
+    <img src="assets/screenshots/recipes-screen-1.png" alt="Recipes Screen" width="200"/>
+    <img src="assets/screenshots/recipes-screen-2.png" alt="More Recipes" width="200"/>
+    <img src="assets/screenshots/recipe-detail.png" alt="Recipe Detail" width="200"/>
+  </div>
+</div>
 
 ## 🚀 Quick Start
 
