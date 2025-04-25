@@ -1,7 +1,7 @@
 # 📸 Snap & Cook
 
 <div align="center">
-  <img src="assets/images/splash-icon.png" alt="Snap & Cook Logo" width="120"/>
+  <img src="assets/images/snc.png" alt="Snap & Cook Logo" width="120"/>
   <h3>Find delicious recipes with ingredients you already have!</h3>
 </div>
 
